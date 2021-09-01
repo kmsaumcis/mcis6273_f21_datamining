@@ -1,6 +1,8 @@
 # Data Mining
 Course repository for MCIS6273 Data Mining.
 
+This repository contains all the files related to Homework for Fall2021.
+
 
 ## Homeworks
 
