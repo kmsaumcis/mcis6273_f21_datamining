@@ -1,7 +1,10 @@
 # Data Mining
 Course repository for MCIS6273 Data Mining.
 
-This repository contains all the files related to Homework for Fall2021.
+In this file you will find the information related to me
+
+Name:Anusha Reddy Ramannagari
+student id:999900982
 
 
 ## Homeworks
