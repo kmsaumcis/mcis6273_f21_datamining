@@ -11,4 +11,4 @@ Course repository for MCIS6273 Data Mining.
 | 2a | HW2a [Jupyter NB](./homework/hw2a/hw2a.ipynb)<br/> HW2a [pdf](./homework/hw2a/hw2a.pdf) | Data Marketplaces on Blockchain: OCEAN Protocol | Wed. Oct. 20, 2021 |
 | 2b | HW2b [Jupyter NB](./homework/hw2b/hw2b.ipynb)<br/> HW2b [pdf](./homework/hw2b/hw2b.pdf) | Clustering | Sun. Nov. 7, 2021 |
 | 3a | HW3a [Jupyter NB](./homework/hw3a/hw3a.ipynb)<br/> HW3a [pdf](./homework/hw3a/hw3a.pdf) | MLOps and HITL | Sun. Nov. 14, 2021 |
-| 3b | HW3b [Jupyter NB](./homework/hw3a/hw3b.ipynb)<br/> HW3b [pdf](./homework/hw3b/hw3b.pdf) | Simple Bayesian Classifier | Mon. Dec. 1, 2021 |
+| 3b | HW3b [Jupyter NB](./homework/hw3b/hw3b.ipynb)<br/> HW3b [pdf](./homework/hw3b/hw3b.pdf) | Simple Bayesian Classifier | Mon. Dec. 1, 2021 |
