@@ -1,6 +1,11 @@
 # Data Mining
 Course repository for MCIS6273 Data Mining.
 
+In this file you will find the information related to me
+
+Name:Anusha Reddy Ramannagari
+student id:999900982
+
 
 ## Homeworks
 
